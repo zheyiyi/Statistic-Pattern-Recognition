@@ -1,4 +1,4 @@
-# Statistic-Pattern-Recognition
+# Statistical-Pattern-Recognition
 
 
 Tufts comp136 course projects
